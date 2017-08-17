@@ -1,0 +1,23 @@
+{
+  "name": "digital-pet-node",
+  "version": "1.0.0",
+  "description": "Node app using the command line allowing users to play the tamagotchi digital pet game.",
+  "main": "tamagotchi.js",
+  "dependencies": {
+    "inquirer": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njulius89/Digital-Pet-Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njulius89/Digital-Pet-Node/issues"
+  },
+  "homepage": "https://github.com/njulius89/Digital-Pet-Node#readme"
+}
